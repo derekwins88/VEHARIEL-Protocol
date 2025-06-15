@@ -1,9 +1,7 @@
-MIT License
-
-Copyright (c) 2025 derekwins88
+🧭 1. MIT License (Permission Layer)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -12,10 +10,40 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+⸻
+
+⚖️ 2. Hippocratic License v3.0 (Ethical Governance Layer)
+
+Permission to use the Software is conditioned on ethical use.
+The Software shall be used for Good, not Evil.
+
+Use of the Software in any of the following ways is strictly prohibited:
+	•	Violating human rights (as defined by the United Nations Universal Declaration of Human Rights)
+	•	Enabling surveillance targeting identity-based groups
+	•	Powering autonomous lethal weapons
+	•	Exploiting workers or vulnerable populations
+	•	Damaging the environment via unsustainable or high-emission practices
+
+Redistribution or derivative works must include this dual-license in full.
+
+The author reserves the right to revoke the license from any party found in violation of these terms.
+
+THE SOFTWARE IS PROVIDED WITHOUT WARRANTY AND WITHOUT LIABILITY.
+
+⸻
+
+🔗 Resources
+	•	Hippocratic License: https://firstdonoharm.dev
+	•	MIT License: https://opensource.org/licenses/MIT
+
+⸻
+
+🔄 Usage Note
+
+If your use case requires only the MIT license, you must still comply with the Hippocratic ethical terms defined above.
+
+This system was built to remember, not to capture.
